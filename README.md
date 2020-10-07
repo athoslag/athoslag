@@ -1,4 +1,4 @@
-### Hello! ☕️
+### Hello, friend! 🤖
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
